@@ -1,4 +1,4 @@
-# Curso de Machine Learning
+## Curso de Machine Learning
 ## Machine Learning Course
 
 Tarefas e projetos desenvolvidos no curso de Aprendizado de Máquina e Reconhecimento de Padrões (MC886), no primeiro semestre de 2022, no Instituto de Computação da Unicamp.
